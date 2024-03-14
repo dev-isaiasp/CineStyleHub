@@ -1,0 +1,35 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: white;
+}
+
+h4 {
+  color: #d3d3d3;
+}
+
+div {
+  padding: 20px;
+  margin: 20px;
+  background-color: #4f4f4f;
+  border-radius: 30px;
+}
+
+span {
+  color: #febe01;
+}
+
+a {
+  background-color: #febe01;
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 4px;
+}
